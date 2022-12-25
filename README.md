@@ -10,5 +10,6 @@
 ## About DDD
 
 
-- [Artical can help you](https://www.hibit.dev/posts/43/domain-driven-design-with-laravel-9).
+- [basic structure DDD](https://www.hibit.dev/posts/43/domain-driven-design-with-laravel-9).
+- [user domain example](https://www.hibit.dev/posts/72/domain-driven-design-with-laravel-9-user-domain).
 
